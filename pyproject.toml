@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vectorgateway"
+version = "0.1.1"
+description = "Protocol middleware for translating vector data across providers, vector databases, and LLM pipelines"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.10"
+keywords = ["llm", "vector-database", "embeddings", "rag", "interoperability", "protocol"]
+classifiers = [
+	"Development Status :: 3 - Alpha",
+	"Intended Audience :: Developers",
+	"Programming Language :: Python :: 3",
+	"Programming Language :: Python :: 3 :: Only",
+	"Programming Language :: Python :: 3.10",
+	"Programming Language :: Python :: 3.11",
+	"Programming Language :: Python :: 3.12",
+	"Programming Language :: Python :: 3.13",
+	"Topic :: Software Development :: Libraries",
+	"Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+
+[project.urls]
+Homepage = "https://pypi.org/project/vectorgateway/"
+Repository = "https://github.com/jagadeesh-profile/vectorgateway"
+Issues = "https://github.com/jagadeesh-profile/vectorgateway/issues"
