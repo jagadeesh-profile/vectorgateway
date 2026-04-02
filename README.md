@@ -244,8 +244,5 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Built with precision. Designed for everyone.
-
-⭐ **Star this repo if VectorGateway saves you time**
 
 </div>
